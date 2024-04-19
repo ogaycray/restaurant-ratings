@@ -1,4 +1,4 @@
-Hi! This is some of my work where I extracted certain data using a json file, which can be found in this repo as well. 
+Hi! This is some of my work where I extracted certain data from https://raw.githubusercontent.com/Papagoat/brain-assessment/main/restaurant_data.json. 
 
 1. First download the .ipynb file  from this repository and open it in Jupyter notebook.
 2. Run all cells of the code to see the output. The code is written in Python language using Jupyter notebook.
