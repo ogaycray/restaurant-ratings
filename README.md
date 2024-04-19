@@ -1,4 +1,4 @@
-Hi! This is some of my work where I extracted certain data from https://raw.githubusercontent.com/Papagoat/brain-assessment/main/restaurant_data.json. 
+Hi! This is some of my work where I extracted certain data from https://raw.githubusercontent.com/Papagoat/brain-assessment/main/restaurant_data.json. restaurants.csv and restaurants_events.csv were created from the data extraction, and the code can be found in the .ipynb file.
 
 1. First download the .ipynb file  from this repository and open it in Jupyter notebook.
 2. Run all cells of the code to see the output. The code is written in Python language using Jupyter notebook.
